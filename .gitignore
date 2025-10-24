@@ -1,0 +1,19 @@
+# Environnement
+/venv/
+.env
+
+#cache Python
+__pycache__/
+*.pyc
+
+#Checkpoints Jupyter
+.ipynb_checkpoints/
+
+# Fichiers IDE
+.vscode/
+.idea/
+.spyderproject/
+
+# Fichiers de données
+*.csv
+*.sqlite
