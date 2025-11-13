@@ -1,19 +1,19 @@
-# Environnement
+# env
 /venv/
 .env
+.envmlproject
 
-#cache Python
+# Python cache
 __pycache__/
 *.pyc
 
 #Checkpoints Jupyter
 .ipynb_checkpoints/
 
-# Fichiers IDE
+# IDE Files
 .vscode/
 .idea/
 .spyderproject/
 
-# Fichiers de données
+# Data
 *.csv
-*.sqlite
