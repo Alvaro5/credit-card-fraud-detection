@@ -10,12 +10,12 @@ We progressively built and compared multiple models, from Decision Trees to XGBo
 
 | Model | F1 Score | Frauds Caught | False Alarms |
 |-------|----------|---------------|--------------|
-| **XGBoost** | **0.85** | **74/95** | **3** |
+| **XGBoost** | **0.84** | **73/95** | **6** |
 | Random Forest | 0.83 | 68/95 | 1 |
 | Bagging | 0.79 | 63/95 | 1 |
 | Decision Tree | 0.67 | 60/95 | 23 |
 
-XGBoost performs best, catching 78% of frauds with 96% precision.
+XGBoost performs best, catching 77% of frauds with 92% precision.
 
 ## File Structure
 
